@@ -1,6 +1,7 @@
-# Exploratory-Data-Analysis-on-Boston-House-Prices-
-This is a brief  Data Analysis on Boston House Prices using Pandas.
+# Hi, I'm Rishika! 👋
+
 I'm thrilled to share my latest data endeavor: Exploratory Data Analysis on Boston House Prices using Pandas! The Boston housing market is a dynamic and complex ecosystem influenced by a multitude of factors. In this analysis, we delve into the extensive Boston Housing Dataset to uncover insights, patterns, and trends that shed light on the dynamics of this market.
+![image](https://github.com/RishikaB-05/Exploratory-Data-Analysis-on-Boston-House-Prices-/assets/157221360/fc9edd1e-6a42-4737-ae4b-ad183d32c07f)
 
 # 🔍Data Overview:
 
